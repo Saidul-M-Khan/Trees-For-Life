@@ -1,0 +1,20 @@
+.card {
+    background: #000000; 
+    background: -webkit-linear-gradient(to left, #434343, #000000);
+    background: linear-gradient(to left, #434343, #000000); 
+    padding: 20px;
+    border: 1px solid aqua;
+}
+ 
+.card-body h4 {
+    font-size: 1.2rem;
+    color: rgb(58, 255, 186);
+}
+
+.card-body p{
+    text-overflow: ellipsis; 
+}
+ 
+.far {
+    font-size: 1.11rem;
+}

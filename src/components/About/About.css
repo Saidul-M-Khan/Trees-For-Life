@@ -1,0 +1,57 @@
+.about {
+    padding-bottom: 202px;
+}
+
+.about-header {
+    font-size: 3.2rem;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.about-banner img {
+    width: 90%;
+}
+
+.about hr {
+    margin-top: 0;
+}
+
+.instructor-slider h1 {
+    margin: 20px;
+    font-size: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.instructor-slider p {
+    font-size: 1.2rem;
+    color: lime;
+}
+
+.slider {
+    margin: 100px 0px;
+}
+
+.carousel-inner {
+    padding: 0px 200px;
+}
+
+.carousel-item img {
+    width: 60%;
+    height: 500px;
+}
+
+.slider-text {
+    max-width: 300px;
+    height: auto;
+}
+
+.slider-text h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.slider-text p {
+    font-weight: 300;
+    font-size: 1.15rem;
+}

@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "title": "Donation",
+        "heading": "PLANT TREES WHERE THEY ARE NEEDED MOST",
+        "Description": "Since the need for reforestation is global and always changing, we feature where trees are most needed now. You can donate money for planting trees. Our motive is $1 for 1 Tree. You heroes can save the world by being with us.",
+        "cost": 50000,
+        "image": "https://cdn.shopify.com/s/files/1/0326/7189/products/9_9fa1a5d8-9844-4575-9a9e-90da8eb906df_2000x.png"
+    }, 
+
+    {
+        "id": 2,
+        "title": "Tracking Area",
+        "heading": "Tree-planting programs turn to tech solutions to track effectiveness",
+        "Description": "Trees consist of much more than what you see above ground. Many times, the root area below ground is larger than the branch spread. Tree roots can compromise electric, gas, water, and sewer lines installed underground.",
+        "cost": 1500,
+        "image": "https://img1.wallspic.com/previews/8/5/4/6/5/156458/156458-track-plant-people_in_nature-leaf-natural_landscape-x750.jpg"
+    }, 
+
+    {
+        "id": 3,
+        "title": "Request For Plantation ",
+        "heading": "Anyone can request planting a tree in any area",
+        "Description": "Any user can request by providing all the necessary information about the specified area. We review their request as soon as possible.",
+        "cost": 1000,
+        "image": "https://assets.thehansindia.com/h-upload/2021/06/08/1600x960_1080885-up-tree-plantation-drive.jpg"
+    }, 
+
+    {
+        "id": 4,
+        "title": "Survey of Plantation",
+        "heading": "The Plantation Survey is an example of landscape archaeology. In the landscape approach, the mountain is the site.",
+        "Description": "The Plantation Survey is an example of landscape archaeology. In the landscape approach, the mountain is the site. In other words, the entire landscape surface and what lies beneath it provide valuable clues about past human activity. ",
+        "cost": 2000,
+        "image": "https://www.monticello.org/sites/default/files/uploaded-content-images/survey.jpg"
+    }, 
+
+    {
+        "id": 5,
+        "title": "Volunteering for Tree Plantation",
+        "heading": "Become a Tree Planting Volunteer",
+        "Description": "We know our planet is currently facing environmental challenges such as deforestation and climate change. People are stepping up and taking action. Environmental activists and nature lovers around the globe are coming together to make contributions to protect nature. ",
+        "cost": 5000,
+        "image": "https://www.trvst.world/wp-content/uploads/2021/06/tree-planting-project-volunteers.jpg"
+    }, 
+
+    {
+        "id": 6,
+        "title": "Fight Against Global Warming",
+        "heading": "How You Can Stop Global Warming",
+        "Description": "The global warming that’s changing our climate already has dire consequences. In just the past few decades: Rising temperatures have worsened extreme weather events. Chunks of ice in the Antarctic have broken apart. Wildfire seasons are months longer. ",
+        "cost": 15000,
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202109/Global_warming-647x363.jpeg"
+    },
+
+    
+    {
+        "id": 7,
+        "title": "Planting Trees to Spread Awareness",
+        "heading": "Tree plantation for better is important for environment",
+        "Description": "Trees greatly contribute to their environment by providing oxygen, supporting wildlife, improving air quality, conserving water, preserving soil, and climate amelioration. By only performing its primary function of photosynthesis, it contributes more than it takes.",
+        "cost": 10000,
+        "image": "https://fastread.in/images/uploads/earth-day-plant-a-tree.jpg"
+        
+    },
+
+    {
+        "id": 8,
+        "title": "Make the World Beautiful Again",
+        "heading": "Trees help to improve air quality by intercepting and trapping dust and other pollutants from the air.",
+        "Description": "Trees greatly contribute to their environment by providing oxygen, supporting wildlife, improving air quality, conserving water, preserving soil, and climate amelioration. By only performing its primary function of photosynthesis, it contributes more than it takes.",
+        "cost": 5000,
+        "image": "https://image.freepik.com/free-photo/cold-frozen-woodland-enveloped-fog_181624-42838.jpg"
+    }
+
+]
+
+

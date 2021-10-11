@@ -1,0 +1,16 @@
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.navbar-brand img {
+    width: 30%;
+}
+
+.nav-link {
+    font-size: 1.4rem;
+}
+
+.selected {
+    color: rgb(0, 255, 123) !important;
+    font-weight: bold;
+}
